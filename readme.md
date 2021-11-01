@@ -6,7 +6,7 @@
 
 ## Technologies & Frameworks
 
-- Springboot 
+- SpringBoot 
 - Camunda workflow engine
 - RabbitMQ
 - JPA 
